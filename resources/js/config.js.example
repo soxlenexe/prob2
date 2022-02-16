@@ -1,0 +1,11 @@
+module.exports ={
+
+    APP_URL:'https://back-office.test',
+    APP_API_URL: 'https://back-office.test/api',
+    APP_DEBUG: true
+
+    // APP_URL:'http://dgc-test.herokuapp.com',
+    // APP_API_URL:'http://dgc-test.herokuapp.com/api',
+    // APP_DEBUG: true
+
+}

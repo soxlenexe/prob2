@@ -1,0 +1,92 @@
+td {
+    padding: 4px 0px 4px 14px !important;
+}
+.toolbar-bg {
+    background: #0052d4 !important; /* fallback for old browsers */
+    background: -webkit-linear-gradient(
+        to left,
+        #ffffff,
+        #ffffff,
+        #022b6d
+    ) !important; /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(
+        to left,
+        #ffffff,
+        #ffffff,
+        #022b6d
+    ) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.title-toolbar {
+    font-size: 2rem;
+}
+.card {
+    padding: 0 !important;
+}
+.separador {
+    padding: 30px;
+}
+.orange {
+    background-color: orange !important;
+    border: 1px solid orange !important;
+}
+.orange:focus {
+    box-shadow: 0 0 0 0.2rem rgb(255 165 0 / 50%) !important;
+}
+.undo-icon {
+    display: inline-block;
+    margin-left: 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1.5rem;
+    padding: 1px 10px 3px 10px;
+    background-color: orange;
+    color: #fff;
+    font-weight: bold;
+}
+.undo-icon:hover {
+    background-color: rgb(248, 200, 109);
+}
+.container-c {
+    width: 92% !important;
+    margin: auto;
+}
+
+.container-c {
+    width: 90%;
+    margin: auto;
+    padding: 25px;
+    padding-top: 5px;
+}
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+
+.table-striped > tbody > tr:nth-child(odd) {
+    background-color: #fff;
+
+}
+.toolbar{
+    border: 1px solid #fff !important;
+    margin-top: 30px;
+}
+.p-paginator{
+   color: rgb(46, 46, 45 )!important;
+}
+
+.p-paginator-current{
+    color: rgb(46, 46, 45) !important;
+}
+
+.p-paginator-page{
+    background-color: orange !important;
+    border: 1px solid orange !important;
+}
+.p-paginator-page:focus{
+    box-shadow: 0 0 0 0.2rem rgb(255 165 0 / 50%) !important;
+}
+
+.p-paginator-first, .p-paginator-prev, .p-paginator-next, .p-paginator-last{
+    color: rgb(44, 44, 44) !important;
+}

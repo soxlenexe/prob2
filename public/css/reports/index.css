@@ -1,0 +1,30 @@
+
+/*
+
+.title{
+    color: rgb(16, 53, 133);
+
+}
+
+.title-div{
+    width: 100%;
+    padding-top: 60px;
+    padding-left: 15% ;
+    padding-right: 15%;
+    height: 120px;
+    background-color: rgb(245, 245, 245);
+    position: fixed;
+    z-index: 2;
+}
+.main-hr{
+    color: rgb(16, 53, 133);
+    height: 2px;
+    border-bottom: 2px solid rgb(16, 53, 133);
+    box-shadow: 1px 2px 5px rgb(100, 169, 248);
+} */
+
+.container-c{
+    width: 92% !important;
+    margin: auto;
+    background-color: #fff;
+}

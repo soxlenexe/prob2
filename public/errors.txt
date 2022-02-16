@@ -1,0 +1,1 @@
+{"password":["El campo password debe contener al menos 8 caracteres."]}

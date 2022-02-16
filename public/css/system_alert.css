@@ -1,0 +1,35 @@
+.cont{
+    background-color: #fff;
+    padding: 18px;
+}
+/* .row:first-child{
+    border-right: 1px solid gray;
+} */
+.card{
+    padding: 10px !important;
+    background: rgba(247, 226, 213, 0.281);
+}
+.card-title{
+    margin: 0;
+    font-size: 1.3rem;
+    color: rgb(59, 59, 59);
+}
+.card-body{
+    padding: 5px 10px !important;
+}
+.btn-orange{
+    background-color: orange;
+    color: rgb(37, 37, 37);
+}
+.status{
+    float: right;
+    margin-right: 15px;
+    font-size: .8rem;
+    margin-top: 10px;
+}
+.leido{
+    color: green;
+}
+.noleido{
+    color: red;
+}
